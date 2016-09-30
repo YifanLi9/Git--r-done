@@ -25,7 +25,7 @@ Milestone 1
 	       
 	 LaziCard recognizes that life changes quickly. This is why our company provides an email 
      reminder one week before sending any and all birthday cards to ensure the user still 
-     still wants a birthday card delivered to the contact who's birthday is approaching. Most importantly, 
+     wants a birthday card delivered to the contact who's birthday is approaching. Most importantly, 
      LaziCard recognizes that life moves faster than most of us can keep up. We have made it our 
      personal responsibility to ensure that remembering to send birthday cards is one less 
      thing you have to do.
